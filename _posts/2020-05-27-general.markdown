@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Cars!"
+date:   2020-05-27 9:15:27 +0000
+categories: jekyll update
+---
+History on cars.  
+- The first car ever made was called Benz, it was developed in 1886 and created by German inventor Karl Benz  
+- Cars itself became available in the early 20th century  
+- The first accessible car to the people was made by Ford called the Model T. 1908 it was an American car  
+
+As u can tell it wasn’t very environmentally friendly with its combustion engine.  
